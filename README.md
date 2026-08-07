@@ -42,3 +42,9 @@ npm run preview
 ## Notes
 
 The Svelte assignment does not require SQLite. This implementation uses browser `localStorage` for persistence so the application can run without a backend.
+
+## Submission checklist
+
+- Keep at least five meaningful commits.
+- Include the deployed website URL in the pull request.
+- Attach the resume and include the email address as requested by the submission guide.
